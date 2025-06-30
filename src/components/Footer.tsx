@@ -120,10 +120,10 @@ const Footer = () => {
           <div className="border-t border-slate-700 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-slate-400 text-sm">
-                © {currentYear} Catherin Pullan. All rights reserved.
+                Bringing dreams to digital reality with <span className="text-cyan-400">Expressive AI Pvt Ltd</span> — where innovation meets elegance.
               </p>
               <p className="text-slate-400 text-sm mt-4 md:mt-0 flex items-center">
-                Crafted with <Heart size={16} className="mx-2 text-red-400 animate-pulse" /> for data-driven excellence
+                Meticulously crafted for her journey through data's infinite possibilities
               </p>
             </div>
           </div>
